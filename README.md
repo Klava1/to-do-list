@@ -10,15 +10,6 @@ Welcome to My To-Do List, a simple yet powerful web application designed to help
 - **Filter Tasks**: View all tasks, only the active ones, or those you've completed to better organize your workflow.
 - **Persistence**: Your tasks are saved in your browser, so you can close the app and come back later without losing your progress.
 
-## How to Use the App
-
-Getting started with My To-Do List is easy:
-
-1. **Add a Task**: Click on the input field at the top, type in your task, and press `Enter` or click the "Add" button.
-2. **Mark a Task as Complete**: Click on the checkbox next to a task to mark it as complete.
-3. **Delete a Task**: Click on the trash bin icon next to a task to remove it from your list.
-4. **Filter Tasks**: Use the tabs at the bottom to filter tasks based on their completion status.
-
 ## Technologies Used
 
 My To-Do List is built with the following technologies:
